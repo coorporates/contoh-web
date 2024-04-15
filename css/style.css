@@ -204,6 +204,14 @@
 }
 
 @media (max-width: 400px) {
+  .navbar-brand h1 {
+    font-size: 23px;
+  }
+
+  p {
+    font-size: 13px;
+  }
+
   .header-carousel .owl-carousel-item {
     position: relative;
     min-height: 300px;
@@ -215,7 +223,7 @@
   }
 
   .header-carousel .owl-carousel-item h1 {
-    font-size: 30px;
+    font-size: 22px;
     font-weight: 600;
   }
 }
