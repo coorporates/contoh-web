@@ -68,6 +68,10 @@
   font-weight: normal;
 }
 
+.button-primary {
+  background-color: #1fa414;
+}
+
 /*** Navbar ***/
 .top-bar {
   height: 75px;
