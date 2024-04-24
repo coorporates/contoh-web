@@ -115,6 +115,10 @@
   color: var(--primary);
 }
 
+.item-wa {
+  font-size: 14px;
+}
+
 @media (max-width: 991.98px) {
   .nav-bar {
     padding: 0;
